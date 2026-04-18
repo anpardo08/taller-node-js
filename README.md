@@ -1,16 +1,52 @@
-# React + Vite
+# Panel Administrativo React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Proyecto desarrollado con React y Vite que simula un panel administrativo web con navegación entre módulos de:
 
-Currently, two official plugins are available:
+- Clientes
+- Proveedor
+- Usuarios
+- Logout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Se implementó navegación dinámica usando React Router y una interfaz web básica para cumplir los requisitos del taller.
 
-## React Compiler
+## Tecnologías usadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- React Router DOM
+- JavaScript
 
-## Expanding the ESLint configuration
+## Pasos seguidos
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Creación del proyecto con Vite.
+
+2. Instalación de dependencias:
+- react-router-dom
+
+3. Creación de componentes:
+- Clientes.jsx
+- Proveedor.jsx
+- Usuarios.jsx
+- Logout.jsx
+
+4. Configuración de rutas con BrowserRouter, Routes y Route.
+
+5. Implementación de barra de navegación con NavLink.
+
+6. Pruebas de navegación entre vistas.
+
+## Ejecución del proyecto
+
+```bash
+npm install
+npm run dev
+```
+
+## Captura del resultado final
+
+(Insertar aquí captura de pantalla del proyecto funcionando)
+
+## Repositorio GitHub
+
+(Insertar enlace del repositorio aquí)
