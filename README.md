@@ -43,10 +43,18 @@ npm install
 npm run dev
 ```
 
-## Captura del resultado final
+## Capturas del resultado final
+<img width="1912" height="870" alt="taller 1" src="https://github.com/user-attachments/assets/f16b7e95-2f5c-4003-b35c-626a15abc15d" />
 
-(Insertar aquí captura de pantalla del proyecto funcionando)
+<img width="1914" height="861" alt="taller2" src="https://github.com/user-attachments/assets/00e7c285-8d15-4ff8-b87d-30992c8e03bd" />
 
-## Repositorio GitHub
+<img width="1918" height="870" alt="taller3" src="https://github.com/user-attachments/assets/044e9631-963b-4ae6-afaa-4450661c3a63" />
 
-(Insertar enlace del repositorio aquí)
+<img width="1910" height="875" alt="taller4" src="https://github.com/user-attachments/assets/a6c4dc86-3072-459f-86dd-f0e57510e4ca" />
+
+
+
+
+
+
+
